@@ -8,7 +8,7 @@
 
 *Turning ideas into reality, one line of code at a time.*
 
-![Profile Views](https://komarev.com/ghpvc/?username=ImMerLyy&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=merlylicious&style=flat-square&color=blue)
 
 </div>
 
@@ -97,9 +97,9 @@ The project focuses on building and maintaining an integrated gaming ecosystem, 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=merlylicious&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=merlyliciou&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=merlylicious&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=merlyliciou&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=merlylicious&theme=tokyonight&hide_border=true)
 
 </div>
 
