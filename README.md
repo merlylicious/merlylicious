@@ -18,7 +18,7 @@
 
 I'm **Amir Syahmi**, also known as **MerLy**, a passionate software developer from Malaysia 🇲🇾.
 
-I started exploring programming at the age of 13 and have been continuously developing my skills through real-world projects, software engineering, and system development.
+I started exploring programming at the age of 13 and have been continuously developing my skills through real-world projects, software engineering and system development.
 
 Currently, I'm pursuing a **Bachelor of Computer Science (Internet Computing)** at **Universiti Sultan Zainal Abidin (UniSZA)**.
 
@@ -28,8 +28,8 @@ I'm also the **Founder & Lead Developer of MyPride Project**, a community-driven
 - 💼 Founder & Lead Developer @ MyPride Project
 - 🚀 6+ years of development experience
 - 🌏 Based in Malaysia
-- 💻 Interested in software engineering, networking, cybersecurity, and system architecture
-- 📚 Always learning and improving
+- 💻 Interested in software engineering, networking, cybersecurity and system architecture
+- 📚 Constant adaption and skill building
 
 ---
 
@@ -72,7 +72,7 @@ I'm also the **Founder & Lead Developer of MyPride Project**, a community-driven
 
 MyPride Project is a Malaysian community-driven multiplayer gaming and software development project.
 
-The project focuses on building and maintaining an integrated gaming ecosystem, including custom multiplayer game systems, applications, server infrastructure, and web-based services.
+The project focuses on building and maintaining an integrated gaming ecosystem, including custom multiplayer game systems, applications, server infrastructure and web-based services.
 
 **Key Highlights:**
 
@@ -87,7 +87,7 @@ The project focuses on building and maintaining an integrated gaming ecosystem, 
 
 **Technologies:** Pawn, C++, Java, Kotlin, PHP, JavaScript, MySQL
 
-> Building experiences, connecting communities, and continuously improving technology.
+> Building experiences, connecting communities and continuously improving technology.
 
 ---
 
@@ -118,7 +118,7 @@ The project focuses on building and maintaining an integrated gaming ecosystem, 
 
 ## 🤝 Let's Connect
 
-I'm always open to learning, collaborating, and connecting with fellow developers.
+I'm always open to learning, collaborating and connecting with fellow developers.
 
 <div align="center">
 
