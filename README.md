@@ -122,7 +122,7 @@ I'm always open to learning, collaborating, and connecting with fellow developer
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-ImMerLyy-181717?style=for-the-badge&logo=github)](https://github.com/ImMerLyy)
+[![GitHub](https://img.shields.io/badge/GitHub-ImMerLyy-181717?style=for-the-badge&logo=github)](https://github.com/merlyliciou)
 
 </div>
 
